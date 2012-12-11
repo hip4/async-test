@@ -1,0 +1,16 @@
+{
+	"name":"async-test",
+	"version":"0.0.1",
+	"author":"hip4",
+	"description":"testing of async.js in combination with director",
+	"contributors":[{
+		"name":"Patrick Haring",
+		"email":"hip4@bfh.ch"
+	}],
+	"main":"./lib/server",
+	"dependencies": {
+		"director":"*",
+		"async":"*",
+		"http-server":"*"
+	}
+}
