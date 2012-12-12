@@ -11,6 +11,6 @@
 	"dependencies": {
 		"director":"*",
 		"async":"*",
-		"http-server":"*"
+		"http":"*"
 	}
 }
